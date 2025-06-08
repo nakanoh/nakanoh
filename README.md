@@ -2,12 +2,12 @@
 Started by fixing typos and learning how to contribute step by step.
 
 🔹 **Typo Fixes – PRs merged to:**  
-- [Next.js #80181](https://github.com/vercel/next.js/pull/80181)  ('them' -> 'it') 
-- [Tailwind CSS #18227](https://github.com/tailwindlabs/tailwindcss/pull/18227), [#18223](https://github.com/tailwindlabs/tailwindcss/pull/18223)  ("a arbitrary" -> "an arbitrary")("a the" -> "the")
-- [PyTorch #155301](https://github.com/pytorch/pytorch/pull/155301)  ('intialize' -> 'initialize')
-- [LangChain #31509](https://github.com/langchain-ai/langchain/pull/31509)  ('practicies' -> 'practices')
-- [Scrapy #6875](https://github.com/scrapy/scrapy/pull/6875)  ('a argument' -> 'an argument')
-- [Chart.js #12084](https://github.com/chartjs/Chart.js/pull/12084)('an segment' -> 'a segment')
+- [Next.js #80181](https://github.com/vercel/next.js/pull/80181)  (`them` -> `it`) 
+- [Tailwind CSS #18227](https://github.com/tailwindlabs/tailwindcss/pull/18227), [#18223](https://github.com/tailwindlabs/tailwindcss/pull/18223)  (`a arbitrary` -> `an arbitrary`)(`a the` -> `the`)
+- [PyTorch #155301](https://github.com/pytorch/pytorch/pull/155301)  (`intialize` -> `initialize`)
+- [LangChain #31509](https://github.com/langchain-ai/langchain/pull/31509)  (`practicies` -> `practices`)
+- [Scrapy #6875](https://github.com/scrapy/scrapy/pull/6875)  (`a argument` -> `an argument`)
+- [Chart.js #12084](https://github.com/chartjs/Chart.js/pull/12084)(`an segment` -> `a segment`)
 
 🔍 **Insights from 6 typo fixes:**  
 - **Types of mistakes**  
