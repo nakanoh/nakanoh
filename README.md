@@ -7,7 +7,7 @@ Started by fixing typos and learning how to contribute step by step.
 - [PyTorch #155301](https://github.com/pytorch/pytorch/pull/155301)  
 - [LangChain #31509](https://github.com/langchain-ai/langchain/pull/31509)  
 - [Scrapy #6875](https://github.com/scrapy/scrapy/pull/6875)  
-- [Chart.js #12084](https://github.com/chartjs/Chart.js/pull/12084) – `an segment → a segment`
+- [Chart.js #12084](https://github.com/chartjs/Chart.js/pull/12084)
 
 🔍 **Insights from 6 typo fixes:**  
 - **Types of mistakes**  
