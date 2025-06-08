@@ -10,7 +10,7 @@ Started by fixing typos and learning how to contribute step by step.
 
 🔍 **Insights from 5 typo fixes:**  
 - **Types of mistakes**  
-  - Incorrect articles (e.g. `a` → `an`): 3 cases (60%)  
+  - Incorrect articles (e.g. `a` → `an`　 `a the` → `the`): 3 cases (60%)  
   - Spelling errors (e.g. `practicies` → `practices`): 1 case (20%)  
   - Pronoun misuse (e.g. `them` → `it`): 1 case (20%)
 
