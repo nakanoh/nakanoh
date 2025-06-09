@@ -1,7 +1,7 @@
 ### 👋 Working towards becoming an OSS contributor  
 I started by fixing typos and have been learning how to contribute step by step.
 
-🔹 **Typo Fixes – PRs merged to:**  
+🔹 **Typo Fixes – PRs merged or approved (awaiting merge):**
 - [Next.js #80181](https://github.com/vercel/next.js/pull/80181)  (`them` → `it`)  
 - [Tailwind CSS #18227](https://github.com/tailwindlabs/tailwindcss/pull/18227), [#18223](https://github.com/tailwindlabs/tailwindcss/pull/18223)  (`a arbitrary` → `an arbitrary`, `a the` → `the`)  
 - [PyTorch #155301](https://github.com/pytorch/pytorch/pull/155301)  (`intialize` → `initialize`)  
