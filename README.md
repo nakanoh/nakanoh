@@ -11,7 +11,7 @@ I started by fixing typos and have been learning how to contribute step by step.
 
 🔍 **Insights from 7 typo fixes:**  
 - **Types of mistakes**  
-  - Incorrect articles (e.g., `a` → `an`, `an` → `a`, `a the` → `the`): **5 cases (71.4%)**  
+  - Incorrect articles (e.g., `a` → `an`, `an` → `a`, `a the` → `the`): **4 cases (57.2%)**  
   - Spelling errors (e.g., `practicies` → `practices`, `intialize` → `initialize`): **2 cases (28.6%)**  
   - Pronoun misuse (e.g., `them` → `it`): **1 case (14.3%)**
 
