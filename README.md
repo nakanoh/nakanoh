@@ -11,30 +11,30 @@ I started by fixing typos and have been learning how to contribute step by step.
 - [Matplotlib #30151](https://github.com/matplotlib/matplotlib/pull/30151)  (`them scale them` → `then scale them`)  
 - [XGBoost #11503](https://github.com/dmlc/xgboost/pull/11503)   (`a open` → `an open`) / (`Committers comes` → `Committers come`)  
 - [Flutter #170206](https://github.com/flutter/flutter/pull/170206) (`disabeling` → `disabling`)  
-- [Django #19537](https://github.com/django/django/pull/19537) (`Geodjango` → `GeoDjango`)
+- [Django #19537](https://github.com/django/django/pull/19537) (`Geodjango` → `GeoDjango`)  
+- [Gensim #3613](https://github.com/piskvorky/gensim/pull/3613) (`Replaceed` → `Replaced`) 
 
-🔍 **Insights from 12 typo cases:**  
+🔍 **Insights from 13 typo cases:**  
 - **Types of mistakes**  
-  - Incorrect articles (e.g., `a` → `an`, `an` → `a`, `a the` → `the`): **5 cases (41.7%)**  
-  - Spelling errors (e.g., `practicies` → `practices`, `intialize` → `initialize`, `disabeling` → `disabling`, `them` → `then`): **4 cases (33.3%)**  
-  - Subject-verb agreement (e.g., `Committers comes` → `Committers come`): **1 case (8.3%)**  
-  - Pronoun misuse (e.g., `them` → `it`): **1 case (8.3%)**  
-  - Capitalization inconsistency (e.g., `Geodjango` → `GeoDjango`): **1 case (8.3%)**
+  - Incorrect articles (e.g., `a` → `an`, `an` → `a`, `a the` → `the`): **5 cases (38.5%)**  
+  - Spelling errors (e.g., `practicies` → `practices`, `intialize` → `initialize`, `disabeling` → `disabling`, `Replaceed` → `Replaced`, `them` → `then`): **5 cases (38.5%)**  
+  - Subject-verb agreement (e.g., `Committers comes` → `Committers come`): **1 case (7.7%)**  
+  - Pronoun misuse (e.g., `them` → `it`): **1 case (7.7%)**  
+  - Capitalization inconsistency (e.g., `Geodjango` → `GeoDjango`): **1 case (7.7%)**
 
 - **Where typos appeared**  
-  - Markdown files (README, SECURITY.md, CONTRIBUTORS.md): **3 cases (25.0%)**  
-  - TypeScript files (tests, compatibility code): **3 cases (25.0%)**  
-  - Python files (comments, docstrings, test files): **3 cases (25.0%)**  
-  - JavaScript files (plugin logic): **1 case (8.3%)**  
-  - YAML config files: **1 case (8.3%)**  
-  - Test scripts (GeoDjango-specific): **1 case (8.3%)**
+  - Markdown files (README, SECURITY.md, CONTRIBUTORS.md, CHANGELOG.md): **4 cases (30.8%)**  
+  - TypeScript files (tests, compatibility code): **3 cases (23.1%)**  
+  - Python files (comments, docstrings, test files): **3 cases (23.1%)**  
+  - JavaScript files (plugin logic): **1 case (7.7%)**  
+  - YAML config files: **1 case (7.7%)**  
+  - Test scripts (GeoDjango-specific): **1 case (7.7%)**
 
 🧠 Initially, I assumed that spelling errors would be the most common type of typo.  
 However, it turns out that **incorrect articles (a/an/the)** were the most frequent.  
 These subtle grammatical mistakes often **slip through standard Linters and CI checks**,  
 so I'm interested in researching this area further—and hopefully building tools to help catch these kinds of issues.  
 Also, I’ve noticed that **spelling errors often occur in words that contain the letter “i”**—this might be an interesting pattern worth exploring!
-
 
 💡 Analyzing these patterns can help improve review and CI processes.  
 Next, I’m planning to take on flaky test fixes and contribute more actively.
