@@ -1,3 +1,17 @@
+### ✏️ Available as a Docs-Only Typo-Fix Collaborator  
+Even small typo fixes can take up valuable time for maintainers—I completely understand that.  
+If your project could use some help cleaning up documentation or comments, I'd be happy to support.
+
+So far, I’ve been contributing on a PR basis proactively,  
+but I'd also be open to helping more consistently—  
+for example, as a **docs-only collaborator focused on typo corrections and minor language improvements**.
+
+Of course, I understand that collaborator access comes with a level of trust.  
+If there’s something specific you’d like me to take a look at, feel free to mention me on GitHub,  
+and I’ll gladly review it. Please feel free to reach out anytime!
+
+---
+
 ### 👋 Working towards becoming an OSS contributor  
 I started by fixing typos and have been learning how to contribute step by step.
 
