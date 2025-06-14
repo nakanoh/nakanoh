@@ -54,6 +54,7 @@ Also, I’ve noticed that **spelling errors often occur in words that contain th
 Next, I’m planning to take on flaky test fixes and contribute more actively.
 
 🛠️ Building tools for reviewers:
+https://github.com/nakanoh/github-merge-analytics
 I'm also developing OSS tools to help reviewers and maintainers. Currently working on github-merge-analytics — a CI tool that generates merge count visualizations just by specifying a URL. This helps track project activity and contribution patterns over time.
 <img width="1230" alt="daily_merge_count" src="https://github.com/user-attachments/assets/00f024e9-96fd-4a6f-bce7-04f602da16ca" />
 
